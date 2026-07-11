@@ -75,7 +75,7 @@ model does not systematically over- or under-predict BPM.
 ## Project Structure
 
 ```
-breathesmart/
+csi-breathing-rate/
 ├── src/
 │   ├── data_processing.py   # CSI loading, amplitude calc, filtering, normalization, PCA, windowing
 │   ├── model.py              # CNN-BiLSTM model definition
